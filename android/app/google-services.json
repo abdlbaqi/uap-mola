@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762641320270",
+    "project_id": "uap-login",
+    "storage_bucket": "uap-login.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762641320270:android:cceea21f727b1a094b361f",
+        "android_client_info": {
+          "package_name": "com.example.uap_fuuadd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLSykhWfeRIQM1V30SEm-OOZanDQ6Y0RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
