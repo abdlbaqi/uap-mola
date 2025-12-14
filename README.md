@@ -3,8 +3,8 @@
 A new Flutter project.
 
 # Nama Kelompok:
--Fuad abdul baqi
--Wahyu surya
+-Fuad abdul baqi npm 2307051021
+-Wahyu surya 2307051025
 
 ## Getting Started
 
